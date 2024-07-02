@@ -1,0 +1,11 @@
+<video data-uia="nmhp-card-animation-asset-video" autoplay="" playsinline="" muted="" loop=""><source src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/video-tv-in-0819.m4v" type="video/mp4"></video>
+
+
+//stranger thing downloading icon
+
+<div data-uia="nmhp-card-animation-asset-custom" aria-hidden="true" class="default-ltr-cache-1q4up1i e15c37ii5"></div>
+
+
+//rajma chawal vedio
+
+<video data-uia="nmhp-card-animation-asset-video" autoplay="" playsinline="" muted="" loop=""><source src="https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/video-devices-in.m4v" type="video/mp4"></video>
